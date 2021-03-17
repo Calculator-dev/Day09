@@ -1,4 +1,4 @@
-function comparisonToEqual (a) {
+function comparisonToEqual(a) {
     if (a < 5){
         return "Less than 5";
     }

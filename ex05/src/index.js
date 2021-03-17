@@ -1,4 +1,4 @@
-function compareStrictValues (m) {
+function compareStrictValues(m) {
     if (m != 55){
         return "Not equal";
     }

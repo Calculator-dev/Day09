@@ -1,5 +1,5 @@
 var evenNumbers = "";
-var zarez = ", ";
+
 function myForLoop1 () {
     for (var result1 = 0; result1 <= 8; result1 += 2){
         evenNumbers += result1 + ", "; 

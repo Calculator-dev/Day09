@@ -2,10 +2,8 @@ var evenNumbers = "";
 
 function myForLoop1 () {
     for (var result1 = 0; result1 <= 8; result1 += 2){
-        evenNumbers += result1; 
-        if (result1 < 8){
-          evenNumbers += ", ";
-        }
+        evenNumbers += result1 + ", "; 
+        
     }
     
 }
@@ -18,7 +16,7 @@ function myForLoop2 () {
           evenInverseNumbers += ", ";
         }
     }
-    console.log(evenNumbers + ", " + evenInverseNumbers);
+    console.log(evenNumbers + evenInverseNumbers);
 }
 
 myForLoop1();

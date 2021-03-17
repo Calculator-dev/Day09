@@ -9,7 +9,7 @@ function inverseWhile (){
             return fiveNumbers += str;
         }
     }
-    console.log(fiveNumbers);
+    return fiveNumbers;
 }
 
 console.log(inverseWhile());

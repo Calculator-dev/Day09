@@ -1,4 +1,4 @@
-function compareDifferentValues (m, n) {
+function compareDifferentValues(m, n) {
     if (m === n){
         return "Equal";
     }

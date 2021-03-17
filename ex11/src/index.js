@@ -1,5 +1,5 @@
 
-function switchCase (letter){
+function switchCase(letter){
     var animals = letter; 
     switch (animals) {
         case "a":

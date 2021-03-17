@@ -1,6 +1,6 @@
 
 
-function functionElse (num) {
+function functionElse(num) {
     if (num <= 5){
         var result = "5 or smaller";
         return result;

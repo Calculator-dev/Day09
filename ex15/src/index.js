@@ -12,7 +12,7 @@ function myDoWhile () {
         i++;
     }while (i < 10)
     
-    console.log(myNumbers);
+    return myNumbers;
 }
 myDoWhile();
 

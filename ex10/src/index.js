@@ -1,4 +1,4 @@
-function logicOrder (num) {
+function logicOrder(num) {
     if (num < 50){
         return "Less than 50";
     }

@@ -7,7 +7,7 @@ function myForLoop1 () {
           evenNumbers += ", ";
         }
     }
-    console.log(evenNumbers);
+    
 }
 
 var evenInverseNumbers = "";
@@ -18,7 +18,7 @@ function myForLoop2 () {
           evenInverseNumbers += ", ";
         }
     }
-    console.log(evenInverseNumbers);
+    console.log(evenNumbers + ", " + evenInverseNumbers);
 }
 
 myForLoop1();

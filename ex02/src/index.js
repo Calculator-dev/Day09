@@ -1,4 +1,4 @@
-function myFunction (myParameter) {
+function myFunction(myParameter) {
     if (myParameter) {
         return "The parameter is true!";
     }
